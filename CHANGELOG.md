@@ -4,6 +4,8 @@
 
 - [Fix] Stretch rolls are now also disabled on #BPMCHANGE
 - [Fix] Color tags no longer appear on unlocked dan titles
+- [Fix] Stretch rolls are now also disabled on #BPMCHANGE
+- [Fix] Color tags no longer appear on unlocked dan titles
 
 ## [0.6.0.48] - 2025-03-10 (Beta)
 
