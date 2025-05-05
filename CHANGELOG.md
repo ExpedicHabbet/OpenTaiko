@@ -3,15 +3,21 @@
 ## [0.6.0.58] - 2025-05-04 (Beta)
 
 - [Hotfix] Revert 0.6.0.57 Silk.Net update due to unexpected crashes when inputing specific buttons
+- [Hotfix] Revert 0.6.0.57 Silk.Net update due to unexpected crashes when inputing specific buttons
 
 ## [0.6.0.57] - 2025-05-03 (Beta)
 
 This reverts commit 14f85feef88ae9858b4a13f0f2945daa7eb6be19.
 This reverts commit e0cb6643f04bc83b100e7d48997eb448d0417836.
 - [Chore] Update Silk.NET to 2.22
+This reverts commit 14f85feef88ae9858b4a13f0f2945daa7eb6be19.
+This reverts commit e0cb6643f04bc83b100e7d48997eb448d0417836.
+- [Chore] Update Silk.NET to 2.22
 
 ## [0.6.0.56] - 2025-05-03 (Beta)
 
+- [Fix] Stretching-disabled rolls still stretched on scroll method changes
+- [Fix] Stretching-disabled rolls have incorrect roll end SENote position
 - [Fix] Stretching-disabled rolls still stretched on scroll method changes
 - [Fix] Stretching-disabled rolls have incorrect roll end SENote position
 
