@@ -3,9 +3,11 @@
 ## [0.6.0.66] - 2025-05-30 (Beta)
 
 - Reintroduce the 0.6.0.64 update with the crashes fixed
+- Reintroduce the 0.6.0.64 update with the crashes fixed
 
 ## [0.6.0.65] - 2025-05-30 (Beta)
 
+- [Hotfix] Revert 0.6.0.64 due to unexpected crashes until a fix is proposed
 - [Hotfix] Revert 0.6.0.64 due to unexpected crashes until a fix is proposed
 
 ## [0.6.0.64] - 2025-05-30 (Beta)
@@ -13,9 +15,13 @@
 - Fix high BPM (e.g., 10^16) caused crash due to character frame index overflowed by huge-valued frame counter
 - Fix looped character animation had each loop delayed to align to drawing frame
 - Fix exiting Kusudama flew too far when BPM is high
+- Fix high BPM (e.g., 10^16) caused crash due to character frame index overflowed by huge-valued frame counter
+- Fix looped character animation had each loop delayed to align to drawing frame
+- Fix exiting Kusudama flew too far when BPM is high
 
 ## [0.6.0.63] - 2025-05-28 (Beta)
 
+- Refactor code handling Unlockables
 - Refactor code handling Unlockables
 
 ## [0.6.0.62] - 2025-05-27 (Beta)
