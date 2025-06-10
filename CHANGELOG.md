@@ -3,6 +3,7 @@
 ## [0.6.0.75] - 2025-06-08 (Beta)
 
 - [Enhancement] Add custom color support for VTT lyrics
+- [Enhancement] Add custom color support for VTT lyrics
 
 ## [0.6.0.74] - 2025-06-07 (Beta)
 
