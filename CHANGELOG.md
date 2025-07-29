@@ -3,6 +3,7 @@
 ## [0.6.0.84] - 2025-07-28 (Beta)
 
 - [Feat] Implemented native OpenGL rendering for MacOS
+- [Feat] Implemented native OpenGL rendering for MacOS
 
 ## [0.6.0.83] - 2025-07-02 (Beta)
 
