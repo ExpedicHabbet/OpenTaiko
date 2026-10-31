@@ -3,6 +3,7 @@
 ## [0.6.0.112] - 2026-10-30 (Beta)
 
 - [Fix] Network pinging can crash due to Math.Abs() negated long.MinValue when checking the timestamp
+- [Fix] Network pinging can crash due to Math.Abs() negated long.MinValue when checking the timestamp
 
 ## [0.6.0.111] - 2026-09-12 (Beta)
 
